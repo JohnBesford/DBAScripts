@@ -1,1 +1,1 @@
-This is a test file for my Git folder (This PC > Documents > Git > DBAScripts
+This is a test file for my Git folder (This PC > Documents > Git > DBAScripts)
